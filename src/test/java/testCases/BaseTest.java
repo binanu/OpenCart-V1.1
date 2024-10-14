@@ -72,7 +72,7 @@ String gMail = firstName + "." + lastName + "@gmail.com";
 				System.out.println("NO Matching OS!");
 			}
 			
-			//browser
+			//browser cap
 			switch(browser.toLowerCase()) {
 			case "chrome": capabilities.setBrowserName("chrome"); break;
 			case "firefox": capabilities.setBrowserName("firefox"); break;
