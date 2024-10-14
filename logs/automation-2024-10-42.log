@@ -1,0 +1,6 @@
+04:00:42.257 [main] DEBUG testCases.TC01_AccountRegistrationTest -Debug
+04:00:42.271 [main] INFO  testCases.TC01_AccountRegistrationTest -Finished testing TC01_AccountRegistrationTest
+04:19:24.463 [main] DEBUG testCases.TC01_AccountRegistrationTest -Debug
+04:19:24.469 [main] INFO  testCases.TC01_AccountRegistrationTest -Finished testing TC01_AccountRegistrationTest
+04:42:35.833 [TestNG-tests-2] DEBUG testCases.TC01_AccountRegistrationTest -Debug
+04:42:35.833 [TestNG-tests-1] DEBUG testCases.TC01_AccountRegistrationTest -Debug

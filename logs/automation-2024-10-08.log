@@ -1,0 +1,6 @@
+11:04:35.782 [TestNG-tests-2] ERROR testCases.TC01_AccountRegistrationTest -Test Failed!!!!!!!!!!!!!!!!!!!!!!!
+11:04:35.792 [TestNG-tests-2] DEBUG testCases.TC01_AccountRegistrationTest -Debug logs........................
+11:07:25.887 [TestNG-tests-2] DEBUG testCases.TC01_AccountRegistrationTest -Debug
+11:07:26.070 [TestNG-tests-1] DEBUG testCases.TC01_AccountRegistrationTest -Debug
+11:07:27.117 [TestNG-tests-2] INFO  testCases.TC01_AccountRegistrationTest -Register link clicked
+11:07:27.121 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistrationTest -Register link clicked

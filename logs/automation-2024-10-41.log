@@ -1,0 +1,8 @@
+23:44:32.216 [TestNG-tests-1] DEBUG testCases.TC01_AccountRegistrationTest -Debug
+23:44:32.228 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistrationTest -Finished testing TC01_AccountRegistrationTest
+05:03:05.352 [TestNG-tests-1] DEBUG testCases.TC01_AccountRegistrationTest -Debug
+05:03:05.357 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistrationTest -Finished testing TC01_AccountRegistrationTest
+05:08:41.394 [TestNG-tests-1] DEBUG testCases.TC01_AccountRegistrationTest -Debug
+05:08:41.399 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistrationTest -Finished testing TC01_AccountRegistrationTest
+05:09:06.111 [TestNG-tests-1] DEBUG testCases.TC01_AccountRegistrationTest -Debug
+05:09:06.115 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistrationTest -Finished testing TC01_AccountRegistrationTest

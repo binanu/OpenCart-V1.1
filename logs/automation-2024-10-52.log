@@ -1,0 +1,6 @@
+03:03:50.748 [main] DEBUG testCases.TC01_AccountRegistrationTest -Debug
+03:03:51.792 [main] INFO  testCases.TC01_AccountRegistrationTest -Register link clicked
+03:03:57.252 [main] INFO  testCases.TC01_AccountRegistrationTest -Finished testing TC01_AccountRegistrationTest
+03:51:22.477 [main] DEBUG testCases.TC01_AccountRegistrationTest -Debug
+03:51:23.548 [main] INFO  testCases.TC01_AccountRegistrationTest -Register link clicked
+03:51:30.432 [main] INFO  testCases.TC01_AccountRegistrationTest -Finished testing TC01_AccountRegistrationTest

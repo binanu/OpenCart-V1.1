@@ -1,0 +1,5 @@
+18:23:52.777 [TestNG-tests-1] DEBUG testCases.TC01_AccountRegistrationTest -Debug
+18:24:28.855 [TestNG-tests-1] ERROR testCases.TC01_AccountRegistrationTest -Test Failed!!!!!!!!!!!!!!!!!!!!!!!
+18:24:28.855 [TestNG-tests-1] DEBUG testCases.TC01_AccountRegistrationTest -Debug logs........................
+18:25:00.001 [TestNG-tests-1] DEBUG testCases.TC01_AccountRegistrationTest -Debug
+18:25:38.321 [TestNG-tests-1] ERROR testCases.TC01_AccountRegistrationTest -Test Failed!!!!!!!!!!!!!!!!!!!!!!!

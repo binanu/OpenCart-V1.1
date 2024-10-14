@@ -1,0 +1,6 @@
+11:08:04.625 [TestNG-tests-2] DEBUG testCases.TC01_AccountRegistrationTest -Debug
+11:08:04.820 [TestNG-tests-1] DEBUG testCases.TC01_AccountRegistrationTest -Debug
+11:08:05.699 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistrationTest -Register link clicked
+11:08:06.021 [TestNG-tests-2] INFO  testCases.TC01_AccountRegistrationTest -Register link clicked
+11:08:10.615 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistrationTest -Finished testing TC01_AccountRegistrationTest
+11:08:11.272 [TestNG-tests-2] INFO  testCases.TC01_AccountRegistrationTest -Finished testing TC01_AccountRegistrationTest
